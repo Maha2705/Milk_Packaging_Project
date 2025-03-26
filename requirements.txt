@@ -1,0 +1,17 @@
+flask
+flask.templating
+streamlit 
+numpy
+matplotlib.pyplot
+tkinter.filedialog
+streamlit_option_menu
+matplotlib.image
+base64
+pandas
+sklearn
+time
+sklearn.model_selection
+sklearn.ensemble
+matplotlib.pyplot
+os
+sqlite3
