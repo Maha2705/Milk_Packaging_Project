@@ -1,5 +1,4 @@
 flask
-flask.templating
 streamlit 
 numpy
 matplotlib.pyplot
